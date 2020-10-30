@@ -1,4 +1,5 @@
 "use strict";
+//When false equals true
 let a=0;
 console.log(Boolean(a)); //false
 let b='0';
